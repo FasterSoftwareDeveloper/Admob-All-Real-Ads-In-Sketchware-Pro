@@ -76,5 +76,10 @@ Do not publish this project on any other YouTube channel and Sketchub
 
 Blocks & project idea credit: Black Label Apps
 
+## Support
+
+For support, email fastersoftwaredeveloper@gmail.com or join our Slack channel.
+
+
 
 
