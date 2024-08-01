@@ -8,7 +8,7 @@
 ## Links
 YouTube Video: https://youtu.be/VT8W7OpPRao
 
-Telegram Post: https://t.me/fastersoftwaredeveloper/125
+Telegram Post: https://t.me/fastersoftwaredeveloper/126
 
 
 ## Feature
