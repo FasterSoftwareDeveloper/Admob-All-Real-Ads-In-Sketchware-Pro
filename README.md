@@ -6,9 +6,9 @@
 ![Logo](https://i.ibb.co/44X3tgR/Admob.png)
 
 ## Links
-YouTube Video: 
+YouTube Video: https://youtu.be/VT8W7OpPRao
 
-Telegram Post: 
+Telegram Post: https://t.me/fastersoftwaredeveloper/125
 
 
 ## Feature
